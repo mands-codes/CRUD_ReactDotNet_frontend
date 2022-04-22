@@ -3,7 +3,7 @@
 </h1>
 
 <h2>:computer: Sobre o Projeto:</h2>
-<p>A aplicação foi desenvolvida tendo seu frontend em React e seu backend, baseado em API em .NET CORE</p>
+<p>A aplicação foi desenvolvida tendo seu frontend em React e seu backend, baseado em API em .NET CORE, com banco de dados SQL SERVER</p>
 
 <h2>Executando o Projeto</h2>
 <p>Para poder executar este projeto, será necessário baixar também o backend <a href="https://github.com/mands-codes/CRUD_ReactDotNet_backend">aqui</a></p>
@@ -15,6 +15,7 @@
 <p>O projeto abrirá em: http://localhost:3000</p>
 <h5>Backend</h5>
 <p>Abrir e executar arquivo WebAPI.sln</p>
+<p>O backup do banco de dados utilizado, está na pasta "Banco de Dados"</p>
 
 <h2>:wrench: Funcionalidades</h2>
 <p>4 operações principais: 
@@ -37,6 +38,7 @@
 <li>React Redux-Saga</li>
 <li>Reactstrap (Bootstrap)</li>
  <li>React-toastify</li>
+  <li>SQL SERVER</li>
 </ul>
 </p>
 
