@@ -9,7 +9,9 @@
 <p>Para poder executar este projeto, será necessário baixar também o backend <a href="https://github.com/mands-codes/CRUD_ReactDotNet_backend">aqui</a></p>
 <strong>Para executar o projeto, executar frontend e backend simultaneamente</strong>
 <h5>Frontend:</h5>
-<p>Abrir o terminal no diretório do projeto e digitar: npm start</p>
+<p>Abrir o terminal no diretório do projeto e digitar: 
+  npm i (para instalar as dependencias)
+  npm start (para executar)</p>
 <p>O projeto abrirá em: http://localhost:3000</p>
 <h5>Backend</h5>
 <p>Abrir e executar arquivo WebAPI.sln</p>
@@ -30,9 +32,7 @@
 
 <p>Ferramentas Utilizadas
 <ul>
-  <p>Backend</p>
 <li>Entity Framework Core 3.1</li>
-  <p>FrontEnd</p>
 <li>React Hooks</li>
 <li>React Redux-Saga</li>
 <li>Reactstrap (Bootstrap)</li>
